@@ -1,6 +1,4 @@
-# 🍃 Natours - The Best Tours
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
+# Natours - The Best Tours
 
 > The landing page for Natours, a tour agency offering a diverse range of guided adventures, including sea, forest, and snow expeditions designed for varying skill levels and experiences.
 
@@ -15,7 +13,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 The following technologies were used to build this project:
 
@@ -28,7 +26,7 @@ The following technologies were used to build this project:
 
 ---
 
-## 🍃 Installation & Requirements
+## Installation & Requirements
 
 ### Prerequisites
 
@@ -36,7 +34,7 @@ To run this project locally, you must have **Node.js** installed. You can check 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/EvolvedAdrian/natours-homepage.git
+    git clone https://github.com/adrianmarzoa/natours-homepage.git
     ```
 2.  **Navigate to the directory:**
     ```bash
@@ -49,19 +47,10 @@ To run this project locally, you must have **Node.js** installed. You can check 
 
 ---
 
-## 💻 Usage
+## Usage
 
 Start the application using:
 
 ```bash
 npm run start
 ```
-
----
-
-## Author
-
-👤 **Adrián**
-
-* Github: [@EvolvedAdrian](https://github.com/EvolvedAdrian)
-
